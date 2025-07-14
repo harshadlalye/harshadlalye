@@ -1,11 +1,10 @@
 ## Hi, I'm Harshad Lalye ✨
 
-🎓 MSc Computer Science student at MIT World Peace University (Final Year)  
-💻 Aspiring Full Stack Developer | Learning DSA in C++ & MERN Stack  
+🎓 MSc Computer Science student at MIT World Peace University   
+💻 Aspiring Full Stack Developer | Learning DSA & MERN Stack  
 🛠️ Comfortable with: HTML, CSS, JavaScript, C, C++, Java, SQL, Git/GitHub  
-📱 Exploring Firebase, Android Development, and UI/UX design  
-🎬 Freelance Photo & Video Editor | Adobe & DaVinci user  
-📸 I sometimes share creative/code/design stuff on [Instagram](https://www.instagram.com/harshad_2702/)  
+🎬 Freelance Photo & Video Editor   
+📸 I sometimes share creative stuff on [Instagram](https://www.instagram.com/harshad_2702/)  
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/harshad-lalye/)
 
 ---
